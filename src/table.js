@@ -4,6 +4,8 @@ export default function Table() {
 
   const [filterProduct, setFilterProduct] = useState("");
 
+  
+
   return (
     <div className="mx-auto w-[720px] bg-slate-400">
             <div className="bg-slate-700 w-[720px] mx-auto p-10" action="">
@@ -33,12 +35,15 @@ export default function Table() {
           <th>English Name</th>
           <th>specification</th>
         </tr>
-        {data2
-          .filter((val) => {
+        {data2.filter((val) => {
             if (filterProduct === "") {
               return val;
-            } else if(val.name2.toLowerCase().includes(filterProduct.toLowerCase())) {
+            } 
+            else if(val.name2.toLowerCase().includes(filterProduct.toLowerCase())) {
                 return val
+            }
+            else{
+              return null
             }
           })
           .map((val) => {
