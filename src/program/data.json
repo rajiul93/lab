@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name1": "氧化镁",
+        "name2": "Magnesia",
+        "specification": " 基准PT100g standard PT100g"
+    },
+    {
+        "id": "2",
+        "name1": "硝酸铜",
+        "name2": "cupric nitrate",
+        "specification": "AR500g"
+    },
+    {
+        "id": "3",
+        "name1": "硝酸银",
+        "name2": "Silver nitrate",
+        "specification": "AR100g"
+    },
+    {
+        "id": "4",
+        "name1": "硝酸铋",
+        "name2": "Bismuth nitrate",
+        "specification": "AR500g"
+    },
+    {
+        "id": "5",
+        "name1": "轻质氧化镁",
+        "name2": "light magnesium-oxide",
+        "specification": "AR250g"
+    },
+    {
+        "id": "6",
+        "name1": "氯化钡",
+        "name2": "Barium chloride",
+        "specification": "AR500g"
+    },
+    {
+        "id": "7",
+        "name1": "氧化锌",
+        "name2": "Zinc oxide",
+        "specification": "基准 PT100g standard PT100g"
+    },
+    {
+        "id": "8",
+        "name1": "氯化亚锡",
+        "name2": "Stannous chloride",
+        "specification": "GR500g"
+    },
+    {
+        "id": "9",
+        "name1": "硫酸亚铁",
+        "name2": "Ammonium ferrous sulfate",
+        "specification": "AR500g"
+    },
+    {
+        "id": "10",
+        "name1": "硫酸铝（十八水合硫酸铝）",
+        "name2": "Aluminum sulfate",
+        "specification": "AR500g"
+    }
+]
