@@ -7,12 +7,10 @@ export default function Table() {
   
 
   return (
-    <div className="mx-auto w-[720px] bg-slate-400">
+    <div className="mx-auto overflow-scroll w-[720px] bg-slate-400 max-h-screen relative">
             <div className="bg-slate-700 w-[720px] mx-auto p-10" action="">
-    <h1 className="text-center mb-3 font-semibold text-2xl ">
-      Chemical Store
-    </h1>
-    <div className="">
+   
+    <div className=" sticky top-2">
       <div className="mb-3 flex gap-8">
         <label htmlFor="" className="text-white text-2xl">
           Chemical Name
@@ -34,6 +32,7 @@ export default function Table() {
           <th>china Name</th>
           <th>English Name</th>
           <th>specification</th>
+          <th>Quantity</th>
         </tr>
         {data2.filter((val) => {
             if (filterProduct === "") {
@@ -56,6 +55,7 @@ export default function Table() {
                 <td className="w-48 text-left">{val.name1}</td>
                 <td className="w-48 text-left">{val.name2}</td>
                 <td className="w-48 text-left">{val.specification}</td>
+                <td className="w-48 text-left">{val.quantity}</td>
               </tr>
             );
           })}
