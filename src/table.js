@@ -7,8 +7,8 @@ export default function Table() {
   
 
   return (
-    <div className="mx-auto overflow-scroll w-[720px] bg-slate-400 max-h-screen relative">
-            <div className="bg-slate-700 w-[720px] mx-auto p-10" action="">
+    <div className="mx-auto overflow-scroll  bg-slate-400 max-h-screen relative">
+            <div className="bg-slate-700   p-10" action="">
    
     <div className=" sticky top-2">
       <div className="mb-3 flex gap-8">
@@ -49,13 +49,13 @@ export default function Table() {
             return (
               <tr
                 key={val.id}
-                className="border-solid hover:bg-black hover:text-white border-2 border-sky-500 text-center"
+                className="border-solid hover:rounded-lg hover:bg-black hover:text-white border-2 border-sky-500 bores text-center"
               >
                 <td className="w-8 border-r-1 ">{val.id}</td>
                 <td className="w-48 text-left">{val.name1}</td>
                 <td className="w-48 text-left">{val.name2}</td>
                 <td className="w-48 text-left">{val.specification}</td>
-                <td className="w-48 text-left">{val.quantity}</td>
+                <td className="w-48 text-center flex justify-around">{val.quantity}<button className="w-12 p-2 rounded-lg bg-lime-900">Edit</button></td>
               </tr>
             );
           })}
