@@ -5,62 +5,77 @@ export default function Table() {
 
   return (
     <div className="overflow-scroll  bg-slate-400 max-h-screen relative">
-      <div className="bg-slate-700   p-10" action="">
-        <div className=" sticky top-2">
-          <div className="mb-3 flex gap-8">
-            <label htmlFor="" className="text-white text-2xl">
-              Chemical Name
-            </label>
-            <input
-              onChange={(event) => {
-                setFilterProduct(event.target.value);
-              }}
-              type="text"
-              className=" ps-3 py-1 text-xl"
-            />
+      <div className="w-[720px] min-h-screen max-h-screen overflow-auto shadow-2xl shadow-gray-400  mx-auto">
+        <div className="bg-slate-700 rounded-t-lg mt-7  p-2" action="">
+          <div className=" sticky top-2">
+
+         
+            
+              <input
+              placeholder="English Name"
+                onChange={(event) => {
+                  setFilterProduct(event.target.value);
+                }}
+                type="text"
+                className=" ps-3 py-1  rounded-lg "
+              />
+               <input
+              placeholder="China Name"
+                onChange={(event) => {
+                  setFilterProduct(event.target.value);
+                }}
+                type="text"
+                className="ms-4 ps-3 py-1  rounded-lg "
+              />
+           
           </div>
         </div>
-      </div>
-      <table>
-        <tr>
-          <th>id</th>
-          <th>China Name</th>
-          <th>English Name</th>
-          <th>specification</th>
-          <th>Quantity</th>
-        </tr>
-        {data2
-          .filter((val) => {
-            if (filterProduct === "") {
-              return val;
-            } else if (
-              val.name2.toLowerCase().includes(filterProduct.toLowerCase())
-            ) {
-              return val;
-            } else {
-              return val;
-            }
-          })
-          .map((val,ind) => {
-            return (
-              <tr
-                key={ind}
-                className=" hover:rounded-lg hover:bg-black hover:text-white border-2  bores "
-              >
-                <td className="w-8 border-r-1 ">{val.id}</td>
-                <td className="w-48  text-center">{val.name1}</td>
-                <td className="w-48 text-left">{val.name2}</td>
-                <td className="w-48  text-center">{val.specification}</td>
-                <td className="w-48 text-center flex justify-around">
-                  {val.quantity}
-                  {/* <button className="w-12 p-2 rounded-lg bg-lime-900">
+        <table className="rounded-lg">
+          <tr className="bg-black text-yellow-50">
+            <th className="py-2">ID</th>
+            <th className="py-2">China Name</th>
+            <th className="py-2">English Name</th>
+            <th className="py-2">specification</th>
+            <th className="py-2">Quantity</th>
+          </tr>
+          {data2
+            .filter((val) => {
+              if (filterProduct === "") {
+                return val;
+              } else if (
+                val.name2.toLowerCase().includes(filterProduct.toLowerCase())
+              ) {
+                return val;
+              }else if (
+                val.name1.toLowerCase().includes(filterProduct.toLowerCase())
+              ) {
+                return val;
+              }
+              else {
+                return null;
+              }
+            })
+            .map((val, ind) => {
+              return (
+                <tr
+                  key={ind}
+                  className="bg-slate-50 hover:rounded-lg hover:bg-black hover:text-white border-2  bores "
+                >
+                  <td className=" ps-3 w-8 border-r-1 ">{val.id}</td>
+                  <td className="w-48  text-center">{val.name1}</td>
+                  <td className="w-48 text-left">{val.name2}</td>
+                  <td className="w-48  text-center">{val.specification}</td>
+                  <td className="w-48 text-center flex justify-around">
+                    {val.quantity}
+                    {/* <button className="w-12 p-2 rounded-lg bg-lime-900">
                     Edit
                   </button> */}
-                </td>
-              </tr>
-            );
-          })}
-      </table>
+                  </td>
+                </tr>
+              );
+            })}
+        </table>
+      </div>
     </div>
   );
 }
