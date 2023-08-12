@@ -24,7 +24,7 @@ export default function Table() {
       <table>
         <tr>
           <th>id</th>
-          <th>china Name</th>
+          <th>China Name</th>
           <th>English Name</th>
           <th>specification</th>
           <th>Quantity</th>
@@ -38,24 +38,24 @@ export default function Table() {
             ) {
               return val;
             } else {
-              return null;
+              return val;
             }
           })
           .map((val,ind) => {
             return (
               <tr
                 key={ind}
-                className="border-solid hover:rounded-lg hover:bg-black hover:text-white border-2 border-sky-500 bores text-center"
+                className=" hover:rounded-lg hover:bg-black hover:text-white border-2  bores "
               >
                 <td className="w-8 border-r-1 ">{val.id}</td>
-                <td className="w-48 text-left">{val.name1}</td>
+                <td className="w-48  text-center">{val.name1}</td>
                 <td className="w-48 text-left">{val.name2}</td>
-                <td className="w-48 text-left">{val.specification}</td>
+                <td className="w-48  text-center">{val.specification}</td>
                 <td className="w-48 text-center flex justify-around">
                   {val.quantity}
-                  <button className="w-12 p-2 rounded-lg bg-lime-900">
+                  {/* <button className="w-12 p-2 rounded-lg bg-lime-900">
                     Edit
-                  </button>
+                  </button> */}
                 </td>
               </tr>
             );

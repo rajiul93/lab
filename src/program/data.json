@@ -4,812 +4,1569 @@
         "name1": "氧化镁",
         "name2": "Magnesia",
         "specification": " 基准PT100g standard PT100g",
-        "quantity":"20"
+        "quantity": "20",
+        "存放点": ""
     },
     {
         "id": "2",
         "name1": "硝酸铜",
         "name2": "cupric nitrate",
         "specification": "AR500g",
-        "quantity":"6"
+        "quantity": "6",
+        "存放点": ""
     },
     {
         "id": "3",
         "name1": "硝酸银",
         "name2": "Silver nitrate",
         "specification": "AR100g",
-        "quantity":"8"
+        "quantity": "8",
+        "存放点": ""
     },
     {
         "id": "4",
         "name1": "硝酸铋",
         "name2": "Bismuth nitrate",
         "specification": "AR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点": ""
     },
     {
         "id": "5",
         "name1": "轻质氧化镁",
         "name2": "light magnesium-oxide",
         "specification": "AR250g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点": ""
     },
     {
         "id": "6",
         "name1": "氯化钡",
         "name2": "Barium chloride",
         "specification": "AR500g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点": ""
     },
     {
         "id": "7",
         "name1": "氧化锌",
         "name2": "Zinc oxide",
         "specification": "基准 PT100g standard PT100g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点": ""
     },
     {
         "id": "8",
         "name1": "氯化亚锡",
         "name2": "Stannous chloride",
         "specification": "GR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点": ""
     },
     {
         "id": "9",
         "name1": "硫酸亚铁",
         "name2": "Ammonium ferrous sulfate",
         "specification": "AR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点": ""
     },
     {
         "id": "10",
         "name1": "硫酸铝（十八水合硫酸铝）",
         "name2": "Aluminum sulfate",
         "specification": "AR500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点": ""
     },
     {
         "id": "11",
         "name1": "乙酸锌（二水合乙酸锌",
         "name2": "Zinc acetate",
         "specification": "AR500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点": ""
     },
     {
         "id": "12",
         "name1": "氯化铝",
         "name2": "Aluminum chloride ",
         "specification": "AR500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点": ""
     },
     {
         "id": "13",
         "name1": "硫酸铜（五水合硫酸铜（Ⅱ",
         "name2": "Copper sulfate",
         "specification": "AR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点": ""
     },
     {
         "id": "14",
         "name1": "硫酸银",
         "name2": "silver sulfate",
         "specification": "AR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点": ""
     },
     {
         "id": "15",
         "name1": "硫酸锰",
         "name2": "Manganese sulfate",
         "specification": "AR500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点": ""
     },
     {
         "id": "16",
         "name1": "重铬酸钾",
         "name2": "Potassium dichromate",
         "specification": "AR500g",
-        "quantity":"20"
+        "quantity": "20",
+        "存放点": ""
     },
     {
         "id": "17",
         "name1": "碘化钾",
         "name2": "Potassium iodide",
         "specification": "AR500g",
-        "quantity":"9"
+        "quantity": "9",
+        "存放点": ""
     },
     {
         "id": "18",
         "name1": "碘化汞",
         "name2": "mercury iodide",
         "specification": "AR100g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点": ""
     },
     {
         "id": "20",
         "name1": "氯化铁",
         "name2": "ferric chloride",
         "specification": "AR500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点": ""
     },
     {
         "id": "21",
         "name1": "磷酸氢二钠",
         "name2": "Disodium hydrogen phosphate",
         "specification": "GR500g",
-        "quantity":"10"
-    }
-    ,
+        "quantity": "10",
+        "存放点": ""
+    },
     {
         "id": "22",
         "name1": "硫代硫酸钠",
         "name2": "Sodium thiosulfate",
         "specification": "AR250g",
-        "quantity":"4"
-    }  ,
+        "quantity": "4",
+        "存放点": ""
+    },
     {
         "id": "23",
         "name1": "氯化钠",
         "name2": "Sodium chloride",
         "specification": "AR500g",
-        "quantity":"AR500g"
-    }  ,
+        "quantity": "9",
+        "存放点": ""
+    },
     {
         "id": "24",
         "name1": "氯化钠",
         "name2": "Sodium chloride reference solution",
         "specification": "基准 PT100g standard PT100g",
-        "quantity":"9"
-    }  ,
+        "quantity": "9",
+        "存放点": ""
+    },
     {
         "id": "38",
         "name1": "碳酸钠",
         "name2": "Anhydrous sodium carbonate reference solution",
         "specification": "PT100g // ",
-        "quantity":"5"
-    }  ,
+        "quantity": "5",
+        "存放点": ""
+    },
     {
         "id": "55",
         "name1": "无水碳酸钠",
         "name2": "Anhydrous sodium carbonate reference solution",
         "specification": "基准 PT100g standard PT100g",
-        "quantity":"1"
+        "quantity": "1",
+        "存放点":""
     }  ,
+    
     {
         "id": "25",
         "name1": "无水碳酸钠",
         "name2": "Anhydrous sodium carbonate ",
         "specification": "AR500g        ",
-        "quantity":"20        "
+        "quantity": "20        ",
+        "存放点":""
     }  ,
+    
     {
         "id": "26",
         "name1": "无水磷酸氢二钠",
         "name2": "disodium hydrogen phosphate anhydrous  ",
         "specification": "AR500g        ",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     }  ,
+    
     {
         "id": "27",
         "name1": "  钠离子标准液     ",
         "name2": "Sodium ion standard solution ",
         "specification": "0.01mol/l        ",
-        "quantity":"3"
+        "quantity": "3",
+        "存放点":""
     }  ,
+    
     {
         "id": "28",
         "name1": "酒石酸钾钠",
         "name2": "Sodium potassium tartrate",
         "specification": "AR500g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点":""
     }  ,
+    
     {
         "id": "29",
         "name1": "硼砂",
         "name2": "Sodium tetraborate decahydrate",
         "specification": "GR500g",
-        "quantity":"24"
+        "quantity": "24",
+        "存放点":""
     }  ,
+    
     {
         "id": "30",
         "name1": "草酸钠",
         "name2": "Sodium oxalate reference solution",
         "specification": "基准 PT100g  standard PT100g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点":""
     }  ,
+    
     {
         "id": "31",
         "name1": "亚硫酸氢钠",
         "name2": "Sodium bisulfite",
         "specification": "AR500g",
-        "quantity":"8"
+        "quantity": "8",
+        "存放点":""
     }  ,
+    
     {
         "id": "32",
         "name1": "氯化钾",
         "name2": "Potassium chloride",
         "specification": "GR500g",
-        "quantity":"3"
+        "quantity": "3",
+        "存放点":""
     }  ,
+    
     {
         "id": "33",
         "name1": "硫酸镁（无水硫酸镁）",
         "name2": "Magnesium sulfate",
         "specification": "AR500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点":""
     }  ,
+    
     {
         "id": "34",
         "name1": "无水亚硫酸钠",
         "name2": "Anhydrous sodium sulfite",
         "specification": "AR500g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点":""
     }  ,
+    
     {
         "id": "35",
         "name1": "硫酸钠",
         "name2": "Sodium sulfate",
         "specification": "AR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     }  ,
+    
     {
         "id": "35",
         "name1": "硫酸钠",
         "name2": "Sodium sulfate",
         "specification": "GR500g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点":""
     }  ,
+    
     {
         "id": "36",
         "name1": "草酸钠",
         "name2": "Sodium oxalate ",
         "specification": "AR500g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点":""
     }  ,
+    
     {
         "id": "37",
         "name1": "磷酸氢二钾",
         "name2": "dipotassium phosphate",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "39",
         "name1": "氢氧化钠",
         "name2": "Sodium hydroxide",
         "specification": "GR500g",
-        "quantity":"8"
-    },
+        "quantity": "8",
+        "存放点":""
+    }  ,
+    
     {
         "id": "40",
         "name1": "氢氧化钠",
         "name2": "Sodium hydroxide",
         "specification": "AR500g",
-        "quantity":"37"
-    },
+        "quantity": "37",
+        "存放点":""
+    }  ,
+    
     {
         "id": "41",
         "name1": "磷酸二氢钾",
         "name2": "Potassium dihydrogen phosphate",
         "specification": "GR500g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "42",
         "name1": "溴化钾",
         "name2": "Potassium bromide",
         "specification": "GR500g",
-        "quantity":"1"
-    },
+        "quantity": "1",
+        "存放点":""
+    }  ,
+    
     {
         "id": "44",
         "name1": "碳酸氢钠",
         "name2": "Sodium bicarbonate",
         "specification": "AR500g",
-        "quantity":"11"
-    },
+        "quantity": "11",
+        "存放点":""
+    }  ,
+    
     {
         "id": "45",
         "name1": "硫化钠",
         "name2": "Sodium sulfide",
         "specification": "AR500g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "46",
         "name1": "氢氧化钡",
         "name2": "barium hydroxide",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "47",
         "name1": "氯化铵",
         "name2": "Ammonium chloride",
         "specification": "GR500g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "48",
         "name1": "氯化铵",
         "name2": "Ammonium chloride",
         "specification": "AR500g",
-        "quantity":"19"
-    },
+        "quantity": "19",
+        "存放点":""
+    }  ,
+    
     {
         "id": "49",
         "name1": "过硫酸铵",
         "name2": "Ammonium persulfate",
         "specification": "AR500g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "50",
         "name1": "邻联甲苯胺",
         "name2": "O-toluidine",
         "specification": "AR500g",
-        "quantity":"3"
-    },
+        "quantity": "3",
+        "存放点":""
+    }  ,
+    
     {
         "id": "51",
         "name1": "邻苯二甲酸氢钾",
         "name2": "Potassium hydrogen phthalate reference solution",
         "specification": "基准 PT100g standard PT100g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "52",
         "name1": "偏钒酸铵",
         "name2": "Ammonium metavanadate",
         "specification": "AR100g",
-        "quantity":"23"
-    },
+        "quantity": "23",
+        "存放点":""
+    }  ,
+    
     {
         "id": "53",
         "name1": "盐酸羟胺",
         "name2": "Hydroxylamine hydrochloride",
         "specification": "AR100g",
-        "quantity":"33"
-    },
+        "quantity": "33",
+        "存放点":""
+    }  ,
+    
     {
         "id": "54",
         "name1": "钼酸铵",
         "name2": "Ammonium molybdate",
         "specification": "AR500g",
-        "quantity":"33"
-    },
+        "quantity": "33",
+        "存放点":""
+    }  ,
+    
     {
         "id": "56",
         "name1": "草酸铵",
         "name2": "ammonium oxalate",
         "specification": "AR500g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "57",
         "name1": "乙酸铵",
         "name2": "Ammonium acetate",
         "specification": "AR500g",
-        "quantity":"47"
-    },
+        "quantity": "47",
+        "存放点":""
+    }  ,
+    
     {
         "id": "58",
         "name1": "乙酸铵",
         "name2": "Ammonium acetate",
         "specification": "GR500g",
-        "quantity":"1"
-    },
+        "quantity": "1",
+        "存放点":""
+    }  ,
+    
     {
         "id": "59",
         "name1": "EDTA",
         "name2": "EDTA",
         "specification": "AR500g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "60",
         "name1": "铬酸钾",
         "name2": "Potassium chromate",
         "specification": "AR500g",
-        "quantity":"10"
-    },
+        "quantity": "10",
+        "存放点":""
+    }  ,
+    
     {
         "id": "61",
         "name1": "氨三乙酸",
         "name2": "nitrilotriacetic acid",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "62",
         "name1": "氨基乙酸",
         "name2": "glycine",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "63",
         "name1": "EDTA二钠",
         "name2": "EDTA-Na2",
         "specification": "AR500g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "64",
         "name1": "碳酸钙",
         "name2": "Calcium carbonate",
         "specification": "基准 PT100g  standard PT100g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "65",
         "name1": "EDTA 二钠镁盐",
         "name2": "Disodium magnesium EDTA",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "66",
         "name1": "氯化钙",
         "name2": "calcium chloride",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "67",
         "name1": "磷酸氢二铵",
         "name2": "Diammonium hydrogen phosphate",
         "specification": "AR500g",
-        "quantity":"3"
-    },
+        "quantity": "3",
+        "存放点":""
+    }  ,
+    
     {
         "id": "67",
         "name1": "磷酸二氢铵",
         "name2": "Diammonium hydrogen phosphate",
         "specification": "AR500g",
-        "quantity":"2"
-    },
+        "quantity": "2",
+        "存放点":""
+    }  ,
+    
     {
         "id": "68",
         "name1": "柠檬酸三铵",
         "name2": "Triammonium citrate",
         "specification": "AR500g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "70",
         "name1": "铬黑T",
         "name2": "Chrome black T",
         "specification": "AR25g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "71",
         "name1": "L-半胱胺盐酸盐",
         "name2": "L-cysteamine hydrochloride",
         "specification": "AR25g",
-        "quantity":"10"
-    },
+        "quantity": "10",
+        "存放点":""
+    }  ,
+    
     {
         "id": "72",
         "name1": "酸性铬兰 K",
         "name2": "Acid chrome blue K",
         "specification": "AR10g",
-        "quantity":"9"
-    },
+        "quantity": "9",
+        "存放点":""
+    }  ,
+    
     {
         "id": "73",
         "name1": "甲基橙",
         "name2": "Methyl orange indicator",
         "specification": "AR25g",
-        "quantity":"10"
-    },
+        "quantity": "10",
+        "存放点":""
+    }  ,
+    
     {
         "id": "74",
         "name1": "中性红",
         "name2": "Neutral red indicator",
         "specification": "AR25g",
-        "quantity":"19"
-    },
+        "quantity": "19",
+        "存放点":""
+    }  ,
+    
     {
         "id": "75",
         "name1": "钙黄绿素",
         "name2": "calcein",
         "specification": "AR10g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "76",
         "name1": "碱蓝 6B",
         "name2": "Alkali blue 6B",
         "specification": "10g",
-        "quantity":"5"
-    },
+        "quantity": "5",
+        "存放点":""
+    }  ,
+    
     {
         "id": "77",
         "name1": "溴百里香酚兰",
         "name2": "Bromothymol Blue",
         "specification": "10g",
-        "quantity":"9"
+        "quantity": "9",
+        "存放点":""
     },
     {
         "id": "78",
         "name1": "紫脲酸铵",
         "name2": "Murexide",
         "specification": "5g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "79",
         "name1": "溴甲酚绿",
         "name2": "bromocresol green",
         "specification": "10g",
-        "quantity":"4"
+        "quantity": "4",
+        "存放点":""
     },
     {
         "id": "80",
         "name1": "萘酚绿 B",
         "name2": "Naphthol green B",
         "specification": "AR25g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "81",
         "name1": "钙—羧酸指示剂2-羟基-1-（2-羟基-4-磺基-1-萘偶氮）-3-萘甲酸",
         "name2": "Calcon-carboxylic acid Calcium - carboxylic acid indicator 2-hydroxy-1 - (2-hydroxy-4-sulfo-1-naphthalazo) -3-naphthalene formic acid ",
         "specification": "AR25g",
-        "quantity":"10"
+        "quantity": "10",
+        "存放点":""
     },
     {
         "id": "82",
         "name1": "铜试剂",
         "name2": "Copper reagent",
         "specification": "AR100g",
-        "quantity":"12"
+        "quantity": "12",
+        "存放点":""
     },
     {
         "id": "83",
         "name1": "酚酞",
         "name2": "Phenolphthalein indicator",
         "specification": "AR25g",
-        "quantity":"9"
+        "quantity": "9",
+        "存放点":""
     },
     {
         "id": "84",
         "name1": "1,10-邻菲罗啉",
         "name2": "1, 10-phenanthroline",
         "specification": "AR5g",
-        "quantity":"17"
+        "quantity": "17",
+        "存放点":""
     },
     {
         "id": "85",
         "name1": "双环已酮草酰二腙",
         "name2": "Dicyclohexone oxalodihydrazone",
         "specification": "AR25g",
-        "quantity":"19"
+        "quantity": "19",
+        "存放点":""
     },
     {
         "id": "87",
         "name1": "次甲基蓝",
         "name2": "Methylene blue indicator",
         "specification": "AR25g",
-        "quantity":"9"
+        "quantity": "9",
+        "存放点":""
     },
     {
         "id": "88",
         "name1": "甲基红",
         "name2": "methyl red",
         "specification": "AR25g",
-        "quantity":"10"
+        "quantity": "10",
+        "存放点":""
     },
     {
         "id": "89",
         "name1": "PAN",
         "name2": "PAN",
         "specification": "AR5g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "91",
         "name1": "酸性靛蓝二磺酸钠",
         "name2": "Acid indigo disulfonate",
         "specification": "AR25g",
-        "quantity":""
+        "quantity": "25",
+        "存放点":""
     },
     {
         "id": "93",
         "name1": "高氯酸镁",
         "name2": "Magnesium perchlorate",
         "specification": "",
-        "quantity":""
+        "quantity": "10",
+        "存放点":""
     },
     {
         "id": "94",
         "name1": "碘",
         "name2": "iodine",
         "specification": "AR250g",
-        "quantity":""
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "95",
         "name1": "锌粒",
         "name2": "zinc granule",
         "specification": "2～3mm AR500g",
-        "quantity":""
+        "quantity": "3",
+        "存放点":""
     },
     {
         "id": "96",
         "name1": "石蜡",
         "name2": "paraffin",
         "specification": "AR500g",
-        "quantity":""
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "97",
         "name1": "铜粉",
         "name2": "Copper powder",
         "specification": "AR500g",
-        "quantity":""
+        "quantity": "1",
+        "存放点":""
     },
     {
         "id": "98",
         "name1": "铝片",
         "name2": "aluminum sheet",
         "specification": "AR250g",
-        "quantity":""
+        "quantity": "13",
+        "存放点":""
     },
     {
         "id": "99",
         "name1": "石墨粉",
         "name2": "graphite powder",
         "specification": "",
-        "quantity":""
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "100",
         "name1": "三氧化钨",
         "name2": "tungsten trioxide ",
         "specification": "AR250g",
-        "quantity":"11"
+        "quantity": "11",
+        "存放点":""
     },
     {
         "id": "101",
         "name1": "淀粉",
         "name2": "starch",
         "specification": "AR500g",
-        "quantity":"10"
+        "quantity": "10",
+        "存放点":""
     },
     {
         "id": "102",
         "name1": "糊精",
         "name2": "dextrin",
         "specification": "CP500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "103",
         "name1": "2,6-二叔丁基对甲酚",
         "name2": "2, 6-di-tert-butylp-cresol",
         "specification": "AR500g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "104",
         "name1": "活性白土",
         "name2": "atlapulgite",
         "specification": "500g",
-        "quantity":"2"
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "105",
         "name1": "抗坏血酸",
         "name2": "ascorbic acid",
         "specification": "AR100g",
-        "quantity":"9"
+        "quantity": "9"
     },
     {
         "id": "106",
         "name1": "甘氨酸",
         "name2": "Glycine",
         "specification": "AR100g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "107",
         "name1": "磺酸水杨酸",
         "name2": "5-Sulfosalicylic acid dihydrate",
         "specification": "AR100g",
-        "quantity":"9"
+        "quantity": "9",
+        "存放点":""
     },
     {
         "id": "108",
         "name1": "磷钼酸",
         "name2": "Phosphomolybdic acid",
         "specification": "AR100g",
-        "quantity":"5"
+        "quantity": "5",
+        "存放点":""
     },
     {
         "id": "109",
         "name1": "1－氨基 2－萘酚 4 磺酸",
         "name2": "Amino-2-naphthol-4-sulfonic acid",
         "specification": "AR25g",
-        "quantity":"9"
+        "quantity": "9",
+        "存放点":""
     },
     {
         "id": "110",
         "name1": "酒石酸",
         "name2": "tartaric acid",
         "specification": "AR500g",
-        "quantity":"15"
+        "quantity": "15",
+        "存放点":""
+    },
+    {
+        "id": "111",
+        "name1": "草酸",
+        "name2": "oxalic acid",
+        "specification": "AR500g",
+        "quantity": "11",
+        "存放点":""
+    },
+    {
+        "id": "111",
+        "name1": "二水合草酸",
+        "name2": "",
+        "specification": "AR500g",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "112",
+        "name1": "硼酸",
+        "name2": "Boric acid",
+        "specification": "AR500g",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "113",
+        "name1": "柠檬酸",
+        "name2": "Citric acid",
+        "specification": "AR500g",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "114",
+        "name1": "苯甲酸",
+        "name2": "benzoic acid",
+        "specification": "GR500g",
+        "quantity": "20",
+        "存放点":""
+    },
+    {
+        "id": "115",
+        "name1": "对二甲氨基苯甲醛",
+        "name2": "P-dimethylaminobenzaldehyde",
+        "specification": "AR25g",
+        "quantity": "19",
+        "存放点":""
+    },
+    {
+        "id": "116",
+        "name1": "中和液",
+        "name2": "Neutralization liquid",
+        "specification": "测定石油产品酸值100ml The acid value of petroleum products was determined to be 100ml",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "117",
+        "name1": "pNa4 标准液",
+        "name2": "PNa4 standard",
+        "specification": "AR500g",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "118",
+        "name1": "萃取液",
+        "name2": "extract liquor",
+        "specification": "测定石油产品酸值500ml The acid value of petroleum products was measured at 500ml",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "121",
+        "name1": "三乙醇胺",
+        "name2": "Triethanolamine",
+        "specification": "AR500ml",
+        "quantity": "29",
+        "存放点":""
+    },
+    {
+        "id": "122",
+        "name1": "双氧水",
+        "name2": "hydrogen peroxide ",
+        "specification": "AR30% 500ml",
+        "quantity": "10",
+        "存放点":""
+    },
+    {
+        "id": "123",
+        "name1": "pH9.18标准液",
+        "name2": "Ph9.18 standard solution",
+        "specification": "AR500g",
+        "quantity": "20",
+        "存放点":""
+    },
+    {
+        "id": "124",
+        "name1": "pH6.86标准液",
+        "name2": "Ph6.86 standard solution",
+        "specification": "AR500g",
+        "quantity": "20",
+        "存放点":""
+    },
+    {
+        "id": "125",
+        "name1": "酒石酸锑钾",
+        "name2": "Potassium antimony tartrate",
+        "specification": "AR500g",
+        "quantity": "1",
+        "存放点":""
+    },
+    {
+        "id": "127",
+        "name1": "石油醚",
+        "name2": "Petroleum ether",
+        "specification": "CP500ml 60～90℃",
+        "quantity": "13",
+        "存放点":""
+    },
+    {
+        "id": "128",
+        "name1": "亚砷酸钠",
+        "name2": "sodium arsenite",
+        "specification": "AR500g",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "129",
+        "name1": "五氧化二钒",
+        "name2": "Vanadium pentoxide",
+        "specification": "AR100g",
+        "quantity": "13",
+        "存放点":""
+    },
+    {
+        "id": "130",
+        "name1": "钍试剂",
+        "name2": "thorin",
+        "specification": "CP25g",
+        "quantity": "1",
+        "存放点":""
+    },
+    {
+        "id": "131",
+        "name1": "盐酸",
+        "name2": "Hydrochloric Acid",
+        "specification": "AR500m",
+        "quantity": "9",
+        "存放点":""
+    },
+    {
+        "id": "132",
+        "name1": "正丁醇",
+        "name2": "Butanol",
+        "specification": "AR500m",
+        "quantity": "40",
+        "存放点":""
+    },
+    {
+        "id": "133",
+        "name1": "正庚烷",
+        "name2": "N-heptane",
+        "specification": "AR500m",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "135",
+        "name1": "丙酮",
+        "name2": "acetone",
+        "specification": "AR500m",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "136",
+        "name1": "叠氮化钠",
+        "name2": "sodium azide",
+        "specification": "AR500g",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "138",
+        "name1": "氢氟酸",
+        "name2": "Hydrofluoric acid",
+        "specification": "AR500m",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "139",
+        "name1": "硫酸",
+        "name2": "sulfuric acid",
+        "specification": "AR500m",
+        "quantity": "13",
+        "存放点":""
+    },
+    {
+        "id": "140",
+        "name1": "硝酸",
+        "name2": "nitric acid",
+        "specification": "AR500m",
+        "quantity": "30",
+        "存放点":""
+    },
+    {
+        "id": "142",
+        "name1": "丙三醇",
+        "name2": "Glycerol",
+        "specification": "AR500ml",
+        "quantity": "20",
+        "存放点":""
+    },
+    {
+        "id": "143",
+        "name1": "汞",
+        "name2": "mercury",
+        "specification": "AR250g",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "144",
+        "name1": "磷酸",
+        "name2": "Phosphoric acid",
+        "specification": "AR500ml",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "145",
+        "name1": "氨水",
+        "name2": "Ammonium Hydroxide",
+        "specification": "AR500ml",
+        "quantity": "42",
+        "存放点":""
+    },
+    {
+        "id": "147",
+        "name1": "重铬酸钾",
+        "name2": "Potassium dichromate reference solution",
+        "specification": "基准  PT100g standard PT100g",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "148",
+        "name1": "重铬酸钾",
+        "name2": "Potassium dichromate",
+        "specification": "GR500g",
+        "quantity": "10",
+        "存放点":""
+    },
+    {
+        "id": "149",
+        "name1": "硫酸联胺",
+        "name2": "Ammonium sulfate",
+        "specification": "AR500g",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "151",
+        "name1": "冰乙酸",
+        "name2": "Glacial acetic acid",
+        "specification": "AR500ml",
+        "quantity": "20",
+        "存放点":""
+    },
+    {
+        "id": "154",
+        "name1": "高锰酸钾",
+        "name2": "potassium permanganate",
+        "specification": "AR500g",
+        "quantity": "9",
+        "存放点":""
+    },
+    {
+        "id": "155",
+        "name1": "2、4、6-三硝基酚",
+        "name2": "2, 4, 6-trinitrophenol",
+        "specification": "CP25g",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "156",
+        "name1": "氧化铁",
+        "name2": "iron oxide",
+        "specification": "GR10g",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "157",
+        "name1": "医用酒精",
+        "name2": "Medicinal alcohol",
+        "specification": "500ml",
+        "quantity": "1",
+        "存放点":""
+    },
+    {
+        "id": "86",
+        "name1": "铬兰黑 R",
+        "name2": "Chrome blue-black R",
+        "specification": "AR25g",
+        "quantity": "1",
+        "存放点":""
+    },
+    {
+        "id": "161",
+        "name1": "微量钙指示剂",
+        "name2": "Trace calcium indicator",
+        "specification": "AR25g",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "162",
+        "name1": "无水乙醇",
+        "name2": "Anhydrous ethanol",
+        "specification": "AR500ml",
+        "quantity": "50",
+        "存放点":""
+    },
+    {
+        "id": "163",
+        "name1": "乙醇",
+        "name2": "95% ethanol",
+        "specification": "AR500g",
+        "quantity": "0",
+        "存放点":""
+    },
+    {
+        "id": "164",
+        "name1": "Ph9.18标准液",
+        "name2": "Ph9.18 standard solution",
+        "specification": "500mL/包 ,AR",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "165",
+        "name1": "Ph6.86标准液",
+        "name2": "Ph6.86 standard solution",
+        "specification": "500mL/瓶 ,AR",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "166",
+        "name1": "标煤",
+        "name2": "standard coal",
+        "specification": "GBW11101，50g/瓶",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "167",
+        "name1": "标煤",
+        "name2": "standard coal",
+        "specification": "GBW11108，50g/瓶",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "168",
+        "name1": "乙二胺四乙酸二钠",
+        "name2": "Disodium edetate",
+        "specification": "250g/瓶 ,AR",
+        "quantity": "10",
+        "存放点":""
+    },
+    {
+        "id": "169",
+        "name1": "氯化钾",
+        "name2": "potassium chloride",
+        "specification": "500g/瓶,GR",
+        "quantity": "2",
+        "存放点":""
+    },
+    {
+        "id": "170",
+        "name1": "Na表参比电极填充液",
+        "name2": "Na meter reference electrode filling solution",
+        "specification": "配北京华科仪HK-51微量钠离子浓度计",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "171",
+        "name1": "亚硫酸氢钠",
+        "name2": "sodium bisulfite",
+        "specification": "500g/瓶 ,AR",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "172",
+        "name1": "酒石酸锑钾",
+        "name2": "Antimony Potassium Tartrate",
+        "specification": "500g/瓶 ,AR",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "173",
+        "name1": "双环已酮草酰二腙",
+        "name2": "Bicyclohexanone oxalyldihydrazone",
+        "specification": "25g/瓶 ,AR",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "174",
+        "name1": "铬蓝K",
+        "name2": "Chrome Blue K",
+        "specification": "10g/瓶,指示剂",
+        "quantity": "12",
+        "存放点":""
+    },
+    {
+        "id": "175",
+        "name1": "亚甲基蓝",
+        "name2": "Methylene blue",
+        "specification": "25g/瓶,指示剂",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "176",
+        "name1": "钙红",
+        "name2": "Calcium red",
+        "specification": "5g/瓶,指示剂",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "177",
+        "name1": "联氨",
+        "name2": "Hydrazine",
+        "specification": "标准溶液，100ug/ml，500ml/瓶",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "178",
+        "name1": "冰醋酸",
+        "name2": "glacial acetic acid",
+        "specification": "GR，500ml",
+        "quantity": "10",
+        "存放点":""
+    },
+    {
+        "id": "179",
+        "name1": "溴化钾",
+        "name2": "potassium bromide",
+        "specification": "500g/瓶 ,AR",
+        "quantity": "20",
+        "存放点":""
+    },
+    {
+        "id": "180",
+        "name1": "电导率标准液",
+        "name2": "Conductivity Standard Solution",
+        "specification": " COND 标准溶液 147μS/cm 125mL",
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "钙标准液",
+        "name2": "Standard liquid calcium",
+        "specification": "1mg/mL",
+        "quantity": "3",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "NH3 标准液",
+        "name2": "NH3 standard solution",
+        "specification": "1mg/mL",
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "NH3 标准液",
+        "name2": "NH3 standard solution",
+        "specification": "0.1mg/mL",
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "福马肼浊度贮备液",
+        "name2": "Formazid turbidity storage solution",
+        "specification": "40NTU",
+        "quantity": "3",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "铁标准液",
+        "name2": "Standard liquid iron",
+        "specification": "100ug/ml",
+        "quantity": "8",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "铜标准液",
+        "name2": "Copper Standard Solution",
+        "specification": "100ug/ml",
+        "quantity": "2",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
+        "name1": "二氧化硅标准液",
+        "name2": "Silica standard solution",
+        "specification": "100ug/ml",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "160",
+        "name1": "LWX-801 吸附剂",
+        "name2": "LWX - 801 adsorbent",
+        "specification": "500g",
+        "quantity": "",
+        "存放点":""
+    },
+    {
+        "id": "158",
+        "name1": "标油",
+        "name2": "standard oil",
         "specification": "",
-        "quantity":""
+        "quantity": "",
+        "存放点":""
+    },
+    {
+        "id": "152",
+        "name1": "冰乙酸",
+        "name2": "Glacial acetic acid",
+        "specification": "GR500ml",
+        "quantity": "",
+        "存放点":""
+    },
+    {
+        "id": "153",
+        "name1": "硝酸铵",
+        "name2": "ammonium nitrate ",
+        "specification": "AR500g",
+        "quantity": "",
+        "存放点":""
+    },
+    {
+        "id": "150",
+        "name1": "二异丙胺",
+        "name2": "Diisopropylamine",
+        "specification": "AR500ml",
+        "quantity": "11",
+        "存放点":""
+    },
+    {
+        "id": "146",
+        "name1": "氨水",
+        "name2": "Ammonium Hydroxide",
+        "specification": "GR500ml",
+        "quantity": "0",
+        "存放点":""
+    },
+    {
+        "id": "134",
+        "name1": "甲醇",
+        "name2": "Methanol",
+        "specification": "AR500ml",
+        "quantity": "3",
+        "存放点":""
+    },
+    {
+        "id": "141",
+        "name1": "硝酸",
+        "name2": "nitric acid",
+        "specification": "1000ml Suprapur 硝酸",
+        "quantity": "0",
+        "存放点":""
+    },
+    {
+        "id": "43",
+        "name1": "氢氧化钾",
+        "name2": "KOH",
+        "specification": "AR500g",
+        "quantity": "39",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "二水合钼酸钠",
+        "name2": "Sodium molybdate dihydrate",
+        "specification": "AR500g，大于99%",
+        "quantity": "4",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "六水合硫酸亚铁按",
+        "name2": "Ferrous Sulfate Hexahydrate",
+        "specification": "AR500g，大于99%",
+        "quantity": "4",
+        "存放点":""
     },
     {
         "id": "",
-        "name1": "",
-        "name2": "",
-        "specification": "",
-        "quantity":""
+        "name1": "十二烷基硫酸钠",
+        "name2": "Sodium dodecyl sulfate",
+        "specification": "AR500g",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "",
+        "name1": "硫酸亚铁铵",
+        "name2": "ammonium ferrous sulfate",
+        "specification": "AR500g，大于99%",
+        "quantity": "4",
+        "存放点":""
+    },
+    {
+        "id": "",
+        "name1": "KCL试剂",
+        "name2": "KCL reagent",
+        "specification": "KCL试剂363140，00500：HACH钠监测仪9245用",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "",
+        "name1": "电解液",
+        "name2": "Electrolyte",
+        "specification": "电解液Z09181=A=3600;HACH水中溶氧分析仪9582用",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "",
+        "name1": "硝酸钠",
+        "name2": "sodium nitrate",
+        "specification": "AR500g",
+        "quantity": "5",
+        "存放点":""
+    },
+    {
+        "id": "",
+        "name1": "卡尔费休试剂",
+        "name2": "Karl Fischer reagent",
+        "specification": "AR500ml（无呲啶）",
+        "quantity": "6",
+        "存放点":""
+    },
+    {
+        "id": "",
+        "name1": "钠标液",
+        "name2": "Sodium standard solution",
+        "specification": "PT2300ug/L",
+        "quantity": "5",
+        "存放点":""
     }
 ]
